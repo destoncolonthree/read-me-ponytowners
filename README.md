@@ -1,4 +1,4 @@
-# yeah
+# ponytown info
 
 ![](https://i.imgur.com/0mmuXt3.png)
 
